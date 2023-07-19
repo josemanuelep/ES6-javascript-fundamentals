@@ -1,5 +1,6 @@
 {
   "name": "es6-javascript-fundamentals",
+  "type": "module",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
